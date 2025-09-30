@@ -1,0 +1,14 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this code, please cite our paper."
+authors:
+  - family-names: "Safarpour"
+    given-names: "Mohammad Hosssein"
+    orcid: "0009-0008-5274-8551"  
+title: "Purification Water Process Algorithm (PWPA)"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX  # بعداً پر می‌شود
+url: https://github.com/safarpour-mh/PWPA
+date-released: 2025-04-05
+license: MIT
+repository-code: https://github.com/safarpour-mh/PWPA
