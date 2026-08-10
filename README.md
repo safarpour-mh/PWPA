@@ -138,7 +138,6 @@ This project is released under the **MIT License**.
 ## ✉️ Contact
 
 **Mohammad Hossein Safarpour**
-Department of Mathematics and Computer Science, Islamic Azad University, Arak, Iran
 📧 safarpour.mh1@gmail.com
 🆔 ORCID: [0009-0008-5274-8551](https://orcid.org/0009-0008-5274-8551)
 
